@@ -1,10 +1,10 @@
 {
-  "name": "language-lua",
-  "version": "0.9.11",
+  "name": "language-lua-roblox",
+  "version": "0.0.1",
   "private": false,
-  "author": "FireZenk <firezenk@gmail.com>",
-  "description": "Add syntax highlighting and snippets to Lua files in Atom",
-  "repository": "https://github.com/FireZenk/language-lua",
+  "author": "FireZenk <firezenk@gmail.com>, Ewoudje",
+  "description": "Add syntax highlighting and snippets to Lua files for roblox in Atom, This can be used together with roblox sync package!",
+  "repository": "https://github.com/ewoudje/language-lua-roblox",
   "license": "MIT",
   "engines": {
     "atom": ">=0.50.0"

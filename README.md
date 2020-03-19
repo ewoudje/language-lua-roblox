@@ -1,10 +1,11 @@
-Lua language support in Atom
+Lua Roblox language support in Atom
 ======
 
-Add syntax highlighting and snippets to Lua files in Atom.
+Add syntax highlighting and snippets to Lua files for roblox in Atom.
 
-See: https://atom.io/packages/language-lua
-and: https://www.npmjs.com/package/language-lua
+You can use this together with roblox-sync!
+
+This is a fork of https://github.com/FireZenk/language-lua
 
 Common snippets
 ---
@@ -83,7 +84,9 @@ Math function snippets
 
 Author
 ------
-__Jorge Garrido Oval__
+__Ewoudje__
+* [https://github.com/ewoudje](https://github.com/ewoudje)
+__Jorge Garrido Oval__ (Fork)
 * [https://github.com/FireZenk](https://github.com/FireZenk)
 
 
@@ -95,7 +98,7 @@ pull request to add snippets, make grammar tweaks, etc.
 
 License
 ------
-Atom language-lua is released under the MIT license.
+Atom language-lua-roblox is released under the MIT license.
 
 >Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
 from the [Lua TextMate bundle](https://github.com/textmate/lua.tmbundle).
